@@ -1,0 +1,9 @@
+{
+  "content": "Текст сверху",
+  "embed": {
+    "url": "https://gamefarm.ru/category/free/",
+    "title": "Описание ссылки",
+    "description": "Общее описание",
+    "color": 5198940
+  }
+}
