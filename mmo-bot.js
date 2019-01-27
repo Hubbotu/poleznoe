@@ -60,7 +60,7 @@ var poll = require('feed-poll')(
 [ "http://www.mmo-champion.com/external.php?do=rss&type=newcontent&sectionid=1&days=120&count=10",
 ], 5);
 
-//var webhooks = ["https://discordapp.com/api/webhooks/370374279470120960/zh2KTJfUoYsXG3A5JUF2gcdL9JgNSvj1Dov_2JfKdrT8w5XAi4Bv37Xt2i4hvnkNKzhp",]
+//var webhooks = ["https://discordapp.com/api/webhooks/535299613926621195/1ocnKW4ObHVcQmDz_Cf0Ob_VGQkpCT6VbtHwkRq_UvQw2f32_zC7AVdKo9JCBSSOfyRH",]
 
 poll.on("cycle", function() {
   // for every polling cycle, read the webhooks file to build our array of hooks.
