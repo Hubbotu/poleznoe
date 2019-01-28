@@ -1,1 +1,0 @@
-# mmo-champion-rss-webhook
